@@ -1,6 +1,6 @@
 ## Hi, I'm Mouzam Sarfraz 👋
 
-<!--
+## Hi, i'm Mouzam Sarfraz Wahla<!--
 **mouzam-sarfraz/mouzam-sarfraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
